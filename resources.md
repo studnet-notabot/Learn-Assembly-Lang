@@ -1,10 +1,4 @@
 # Assembly Language / Reversing / Malware Analysis -resources
-<div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height="128">
-</div> 
-
-##
-[![Twitter: Muffin](https://img.shields.io/twitter/follow/navneetmuffin?style=social)](https://twitter.com/navneetmuffin)
 
 # ⭐Assembly Language 
 
